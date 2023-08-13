@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "Bobur",
+            "age": 17,
+            "loc": "Uzb"
+        },
+        {
+            "name": "job",
+            "age": 45,
+            "loc": "Korea"
+        },
+        {
+            "name": "Bobur",
+            "age": 17,
+            "loc": "Uzb"
+        },
+        {
+            "name": "job",
+            "age": 45,
+            "loc": "Korea"
+        }
+    ]
+}

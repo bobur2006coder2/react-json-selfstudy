@@ -1,0 +1,11 @@
+.info-content li{
+    list-style: none;
+    width: 450px;
+    /* height: 70px; */
+    padding: 20px 0px;
+    border-radius: 10px;
+    background-color: rgba(209, 244, 244, 0.6);
+    border: 1px solid black;
+    margin-top: 10px;
+    text-align: center;
+}
